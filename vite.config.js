@@ -9,5 +9,5 @@ export default defineConfig({
   // with your actual repository name (case-sensitive, exactly as it
   // appears in the GitHub URL). Leave this as '/' only if you're deploying
   // to a <username>.github.io repo (a "user site", not a project site).
-  base: '/',
+  base: '/tunefolio/',
 })
